@@ -5,3 +5,7 @@
 ### Join the 13th Age Community Discord
 
 https://discord.gg/m9DbPC6RsC
+
+### Follow 13 Vaults on Mastodon
+
+We joined the dice.camp community and you can find our profile here: [@13vaults@dice.camp](https://dice.camp/@13vaults)
