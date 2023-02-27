@@ -13,4 +13,4 @@ We joined the dice.camp community and you can find our profile here: [@13vaults@
 ### Support 13 Vaults!
 
 - Patreon: https://patreon.com/13vaults
-- GitHub Sponsers: https://github.com/sponsors/sean-clayton
+- GitHub Sponsors: https://github.com/sponsors/sean-clayton
